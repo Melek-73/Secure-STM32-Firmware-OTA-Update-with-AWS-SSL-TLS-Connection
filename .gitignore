@@ -1,0 +1,36 @@
+
+# STM32CubeIDE workspace metadata
+.metadata/
+*.launch
+
+# Build outputs
+Debug/
+Release/
+build/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*~
+
+# Vendor packages and large binaries
+*.zip
+*.7z
+*.exe
+
+# Reference manuals and datasheets (keep outside the repository)
+*.pdf
